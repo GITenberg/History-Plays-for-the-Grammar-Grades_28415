@@ -1,0 +1,30 @@
+_repo: History-Plays-for-the-Grammar-Grades_28415
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28415-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lyng, Mary Ella
+    gutenberg_agent_id: '33323'
+    url: http://www.gutenberg.org/2009/agents/33323
+description: ''
+gutenberg_issued: '2009-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28415'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Historical drama'
+- !lcsh 'Children''s plays'
+tableOfContents: Christopher Columbus -- John Smith and Pocahontas -- Sir Walter Raleigh
+  -- William Penn -- Sir Francis Drake -- Pilgrims -- George Washington and other
+  heroes of the revolution -- George Rogers Clark -- Andrew Jackson -- John C. Fremont
+  -- Webster, Clay and Calhoun -- The story of Abraham Lincoln -- Grant and Lee --
+  Robert E. Lee -- Some women of history.
+title: History Plays for the Grammar Grades
+url: http://www.gutenberg.org/ebooks/28415
